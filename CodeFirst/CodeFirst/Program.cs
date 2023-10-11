@@ -14,17 +14,19 @@ namespace CodeFirst
 {
     public class CodeFirst : DbContext
     {
-        public CodeFirst() : base("Hospital") { Database.SetInitializer<CodeFirst>(null); }
+        public CodeFirst() : base("Hospital") {  }
 
         public DbSet<Equipment> Equipment { get; set; }
         public DbSet<Medicine> Medicine { get; set; }
         public DbSet<Patient> Patient { get; set; }
         public DbSet<Staff> Staff { get; set; }
         public DbSet<Proced> Proced { get; set; }
+        public DbSet<Class1> Classes { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new ProcedConfig());
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<CodeFirst, ProcedConfig>());
         }
     }
     public class Program
