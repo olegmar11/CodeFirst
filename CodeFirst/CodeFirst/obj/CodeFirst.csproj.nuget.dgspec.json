@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab4\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {}
+    "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\CodeFirst\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab4\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {
+    "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\CodeFirst\\CodeFirst\\CodeFirst\\CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab4\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+        "projectUniqueName": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\CodeFirst\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
         "projectName": "CodeFirst",
-        "projectPath": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab4\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
-        "packagesPath": "C:\\Users\\olegm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olegm\\Desktop\\IKNI\\3 year\\PIS\\lab4\\CodeFirst\\CodeFirst\\obj\\",
+        "projectPath": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\CodeFirst\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+        "packagesPath": "C:\\Users\\maksi\\.nuget\\packages\\",
+        "outputPath": "D:\\Stuff\\Work\\IT\\IKNI5SEM\\PIS\\CodeFirst\\CodeFirst\\CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\olegm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maksi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
